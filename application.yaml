@@ -4,7 +4,7 @@ metadata:
   name: myapp-argo-application
   namespace: argocd
 spec:
-  project: default
+  project: xiucai
 
   source:
     repoURL: https://github.com/yangchuansheng/argocd-lab.git
